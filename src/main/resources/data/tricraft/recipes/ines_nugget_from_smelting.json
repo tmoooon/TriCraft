@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "tricraft:ines_pickaxe"
+    },
+    {
+      "item": "tricraft:ines_shovel"
+    },
+    {
+      "item": "tricraft:ines_axe"
+    },
+    {
+      "item": "tricraft:ines_hoe"
+    },
+    {
+      "item": "tricraft:ines_sword"
+    },
+    {
+      "item": "tricraft:ines_helmet"
+    },
+    {
+      "item": "tricraft:ines_chestplate"
+    },
+    {
+      "item": "tricraft:ines_leggings"
+    },
+    {
+      "item": "tricraft:ines_boots"
+    }
+  ],
+  "result": "tricraft:ines_nugget"
+}

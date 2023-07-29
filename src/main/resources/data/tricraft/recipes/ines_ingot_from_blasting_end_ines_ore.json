@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "ines_ingot",
+  "ingredient": {
+    "item": "tricraft:end_ines_ore"
+  },
+  "result": "tricraft:ines_ingot"
+}

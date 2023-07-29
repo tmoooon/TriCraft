@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "gigerium_ingot",
+  "key": {
+    "#": {
+      "item": "tricraft:gigerium_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "tricraft:gigerium_ingot"
+  },
+  "show_notification": true
+}

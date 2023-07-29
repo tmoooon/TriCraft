@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tricraft:item/gigerium_sword"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tricraft:ines_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tricraft:ines_nugget"
+  }
+}

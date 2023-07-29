@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "tricraft",
+  "version": "${version}",
+
+  "name": "TriCraft",
+  "description": "This is my first mod for Minecraft!",
+  "authors": [
+    "tmon"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/tmoooon"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/tricraft/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.tmon.tricraft.TriCraft"
+    ],
+    "client": [
+      "org.tmon.tricraft.TriCraftClient"
+    ]
+  },
+  "mixins": [
+    "tricraft.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

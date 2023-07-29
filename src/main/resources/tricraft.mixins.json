@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.tmon.tricraft.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "TriCraftMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

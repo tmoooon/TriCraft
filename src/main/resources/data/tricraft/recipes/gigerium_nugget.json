@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "tricraft:gigerium_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tricraft:gigerium_nugget"
+  }
+}
