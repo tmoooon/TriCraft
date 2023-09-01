@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "tricraft:gigerium_pickaxe"
+    },
+    {
+      "item": "tricraft:gigerium_shovel"
+    },
+    {
+      "item": "tricraft:gigerium_axe"
+    },
+    {
+      "item": "tricraft:gigerium_hoe"
+    },
+    {
+      "item": "tricraft:gigerium_sword"
+    },
+    {
+      "item": "tricraft:gigerium_helmet"
+    },
+    {
+      "item": "tricraft:gigerium_chestplate"
+    },
+    {
+      "item": "tricraft:gigerium_leggings"
+    },
+    {
+      "item": "tricraft:gigerium_boots"
+    }
+  ],
+  "result": "tricraft:gigerium_nugget"
+}

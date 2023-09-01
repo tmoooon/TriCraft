@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "ines_ingot",
+  "ingredient": {
+    "item": "tricraft:raw_ines"
+  },
+  "result": "tricraft:ines_ingot"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "gigerium_ingot",
+  "ingredient": {
+    "item": "tricraft:raw_gigerium"
+  },
+  "result": "tricraft:gigerium_ingot"
+}

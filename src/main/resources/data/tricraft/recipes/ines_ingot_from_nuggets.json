@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "ines_ingot",
+  "key": {
+    "#": {
+      "item": "tricraft:ines_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "tricraft:ines_ingot"
+  },
+  "show_notification": true
+}
